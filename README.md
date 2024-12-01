@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/luiz-adriano-santos-1812a6200/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://gmail.com/santosluiz1912@gmail.com" target="_blank">
+  <a href="mailto:santosluiz1912@gmial.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/luiz_santos18/" target="_blank">
