@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Nome: Luiz Adriano Augusto dos Santos<br><br>Idade: 24 anos<br><br>Formação Acadêmica:<br>Técnico Integrado em Eletrônica (Instituto Federal de Santa Catarina) - Concluído em 2021<br>Sistemas de Informação (Universidade Federal de Santa Catarina) - Cursando 4ª fase (2023.1)<br><br>Habilidades:<br>Pacote Office, montagem e manutenção de computadores, curso de manutenção de celulares<br>Boa comunicação, comprometimento, flexibilidade, proatividade, trabalho em equipe.<br><br>Conhecimentos: Inglês intermediário, manutenção de hardware, suporte técnico.</p>
+<p align="left">Nome: Luiz Adriano Augusto dos Santos<br><br>Idade: 25 anos<br><br>Formação Acadêmica:<br>Técnico Integrado em Eletrônica (Instituto Federal de Santa Catarina) - Concluído em 2021<br>Sistemas de Informação (Universidade Federal de Santa Catarina) - Cursando 8ª fase (2023.1)<br><br>Habilidades:<br>Pacote Office, montagem e manutenção de computadores, curso de manutenção de celulares<br>Boa comunicação, comprometimento, flexibilidade, proatividade, trabalho em equipe.<br><br>Conhecimentos: Inglês intermediário, manutenção de hardware, suporte técnico.</p>
 
 ###
 
